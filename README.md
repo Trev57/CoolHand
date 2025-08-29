@@ -1,4 +1,10 @@
-# Cool Hand
+# Cool Hand (For V7)
+
+This is a forked version of this repo, the only difference is the twiddler.cfg has been updated for use with the V7 Config system
+
+There is ONE difference between this and the documentation that follows. Instead of "NL" being at the bottom middle, it is now T1. T1 was the "Numlock" button on the Twiddler 3, so I opted to use that and leave the real estate of the middle bottom open for whatever you want to put there. I did not invent this mapping, see [here](https://github.com/CoohLand/CoolHand) for the original repository
+
+
 a [Twiddler 3](http://twiddler.tekgear.com/index.html) chord map optimized for the UNIX command-line   
 designed for [vim](http://www.vim.org/about.php)/[bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))/[mutt](http://www.mutt.org/)/[irssi](https://irssi.org/)  
 
